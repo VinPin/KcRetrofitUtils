@@ -1,0 +1,3 @@
+include ':kcretrofitutils'
+include ':app'
+rootProject.name = "KcRetrofitUtils"
